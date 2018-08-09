@@ -1,0 +1,42 @@
+header {
+    background-color: #666; 
+    padding: 30px;            
+    text-align: center;     
+    font-size: 30px;          
+    color: white;           
+}
+
+section {
+    padding: 150px 0;         
+    padding-left: 100px;      
+    padding-right: 100px;    
+}
+
+section#about {
+    background-color: aliceblue;  
+    color: #666;
+    text-align: right;
+}
+
+section#document {
+    background-color: cornsilk;
+    color: rgb(64, 8, 117);
+}
+
+section#document ul {
+    list-style-type: none;
+}
+
+section#document li a {
+    text-decoration: none;
+}
+
+section#document li a:hover {
+    color: #008500;  
+}
+
+section#Contact {
+    background-color: crimson;
+    color: cornsilk;
+    text-align: right;
+}
